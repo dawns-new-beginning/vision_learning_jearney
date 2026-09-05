@@ -1,0 +1,16 @@
+2026.09.05
+1. 学习线性回归基于PyTorch版本的拟合
+2. 学习卷积神经网络以及给予此的使用LeNet网络的MNist数据集分类测试
+
+
+2026.08.29
+1. 学习vs code编译器基本用法
+    terminal 使用/插件安装/
+2. github配置与使用
+    1）创建项目/项目改名/项目提交
+    2）项目地址更新
+    3)提交使用Personal Access Token在GitHub生成
+      也可改用SSH方式
+4. python环境配置
+PyTorch环境配置
+基础语法练习
